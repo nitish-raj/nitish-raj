@@ -17,7 +17,7 @@
 ## Social media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-raj/)
 [![twitter](https://img.shields.io/badge/Twitter-9CF?style=flat-square&logo=twitter&logoColor=Black)](https://twitter.com/thenitishraj/)
-[![kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=flat-square&logo=kaggle&logoColor=white)](https://twitter.com/thenitishraj/)
+[![kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nitishraj)
 
 ---
 ## Skills
