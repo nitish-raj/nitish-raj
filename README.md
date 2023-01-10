@@ -8,10 +8,10 @@
 
 ---
 
-<a href="https://github.com/nitish-raj/github-readme-stats">
+<a href="https://github.com/nitish-raj">
   <img align="center" src="https://github-readme-stats-xi-eosin-87.vercel.app/api?username=nitish-raj&hide=prs&show_icons=true&theme=noctis_minimus" />
 </a>
-<a href="https://github.com/nitish-raj/github-readme-stats">
+<a href="https://github.com/nitish-raj">
   <img align="center" src="https://github-readme-stats-xi-eosin-87.vercel.app/api/top-langs/?username=nitish-raj&layout=compact" />
 </a>  
   
