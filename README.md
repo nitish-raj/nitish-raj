@@ -8,9 +8,13 @@
 
 ---
 
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitish-raj&hide=prs&show_icons=true&theme=noctis_minimus)
-
-[![Nitish's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-raj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/nitish-raj/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-xi-eosin-87.vercel.app/api?username=nitish-raj&hide=prs&show_icons=true&theme=noctis_minimus" />
+</a>
+<a href="https://github.com/nitish-raj/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-xi-eosin-87.vercel.app/api/top-langs/?username=nitish-raj&layout=compact" />
+</a>  
+  
 
 ---
 
