@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://flagemoji.net/img/flags/india-flag.png" alt="India" width="50" height="30"/> <img src="https://static.webshopapp.com/shops/094414/files/057926038/luxembourg-flag-emoji-free-download.jpg" alt="Luxembourg" width="50" height="30"/>
 
 
-## Hi there 👋 , I am Nitish 🧘🏻‍♂️
+## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> , I am Nitish 🧘🏻‍♂️
 - 📜 Computer Science Engineer 
 - 👨‍💻 Business Intelligence Engineer at <img src="https://user-images.githubusercontent.com/22993803/209567877-d6c4abdb-f680-4835-b61d-659161b4de9e.png" alt="Amazon" width="25" height="25"/>
 - 🎯 Data analysis and visualization, Machine Learning
