@@ -6,7 +6,7 @@
 - 👨‍💻 Business Intelligence Engineer at <img src="https://user-images.githubusercontent.com/22993803/209567877-d6c4abdb-f680-4835-b61d-659161b4de9e.png" alt="Amazon" width="25" height="25"/>
 - 🎯 Data analysis and visualization, Machine Learning
 
----
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-xi-eosin-87.vercel.app/api?username=nitish-raj&hide=prs&show_icons=true&theme=noctis_minimus" />
@@ -14,16 +14,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-xi-eosin-87.vercel.app/api/top-langs/?username=nitish-raj&layout=compact" />
 </a>  
-  
 
----
 
 ## Social media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-raj/)
 [![twitter](https://img.shields.io/badge/Twitter-9CF?style=flat-square&logo=twitter&logoColor=Black)](https://twitter.com/thenitishraj/)
 [![kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nitishraj)
 
----
+
 ## Skills
   
 ### Programming Language
