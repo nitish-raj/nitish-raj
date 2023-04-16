@@ -34,6 +34,9 @@
 ![scikitlearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![fastai](https://img.shields.io/badge/FastAI-green?style=flat-square&logo=fastai&logoColor=white)
+  
+### Analytics Engineering
+![dbt](https://img.shields.io/badge/dbt-EE4C2C?style=flat-square&logo=dbt&logoColor=white)
 
 ### Deployment & Cloud
 ![fastapi](https://img.shields.io/badge/fastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
