@@ -44,6 +44,7 @@
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![gcp](https://img.shields.io/badge/Google_GCP-2560E0?style=flat-square&logo=google&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![snowflake](https://img.shields.io/badge/Snowflake-99CCFF?style=flat-square&logo=snowflake&logoColor=white)
 
 ### Visualization & Business Intel
 ![plotly](https://img.shields.io/badge/Plotly-EB3C00?style=flat-square&logo=plotly&logoColor=white)
