@@ -3,7 +3,7 @@
 
 ## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> , I am Nitish 🧘🏻‍♂️
 - 📜 Computer Science Engineer
-- 👨‍💻 Data Engineering and Analytics Professional
+- 👨‍💻 Senior (Data) Analytics Engineering Professional
 - 🎯 Data [Science, Analytics and Engineering], Visual Storytelling, Machine Learning
 
 
