@@ -1,5 +1,5 @@
 ## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> , I am Nitish 🧘🏻‍♂️
-- 👨‍💻 Senior (Data) Analytics Engineer
+- 👨‍💻 Senior Data and Analytics Engineer
 - 📜 Computer Science Engineering
 - 🎯 Data [Science, Analytics and Engineering], Visual Storytelling, Machine Learning
 
