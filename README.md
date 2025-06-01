@@ -1,7 +1,7 @@
-## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> , I am Nitish 🧘🏻‍♂️
+## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> , I am
 - 👨‍💻 Senior Data Engineer
 - 📜 Computer Science Engineering
-- 🎯 Data [Science, Analytics and Engineering] and Machine Learning
+- 🎯 Data Engineering, DataOps and MLOps
 
 ---
 
