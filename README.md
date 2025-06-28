@@ -15,40 +15,39 @@
 ---
 
 ### Social Presence
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-raj/)
-[![twitter](https://img.shields.io/badge/Twitter-9CF?style=flat-square&logo=twitter&logoColor=Black)](https://twitter.com/thenitishraj/)
-[![kaggle](https://img.shields.io/badge/Kaggle-0A66C2?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nitishraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-raj/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/thenitishraj/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/nitishraj)
 
   
 #### Programming Language
 
-![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![R](https://img.shields.io/badge/R-00ADD8?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 #### Statistical learning
-![scikitlearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![fastai](https://img.shields.io/badge/FastAI-green?style=flat-square&logo=fastai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![fastai](https://img.shields.io/badge/fastai-242760?style=flat-square&logo=fastai&logoColor=white)
   
 #### Analytics Engineering
-![dbt](https://img.shields.io/badge/dbt-EE4C2C?style=flat-square&logo=dbt&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 #### Deployment & Cloud
-![fastapi](https://img.shields.io/badge/fastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![gcp](https://img.shields.io/badge/Google_GCP-2560E0?style=flat-square&logo=google&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![snowflake](https://img.shields.io/badge/Snowflake-99CCFF?style=flat-square&logo=snowflake&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
 
 #### Business Intelligence
-![plotly](https://img.shields.io/badge/Plotly-EB3C00?style=flat-square&logo=plotly&logoColor=white)
-![matplotlib](https://img.shields.io/badge/Matplotlib-navy?style=flat-square&logoColor=white)
-![seaborn](https://img.shields.io/badge/Seaborn-red?style=flat-square&logoColor=white)
-![tableau](https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
-![quicksight](https://img.shields.io/badge/Amazon_QuickSight-grey?style=flat-square&logo=amazon&logoColor=white)
-![powerbi](https://img.shields.io/badge/Microsoft_PowerBI-yellow?style=flat-square&logo=microsoft&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-2D6EFB?style=flat-square&logo=amazonaws&logoColor=white)
 
 <!--
 **nitish-raj/nitish-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
