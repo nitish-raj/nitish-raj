@@ -29,7 +29,6 @@
 #### Statistical learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![fastai](https://img.shields.io/badge/fastai-242760?style=flat-square&logo=fastai&logoColor=white)
   
 #### Analytics Engineering
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
@@ -40,14 +39,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
 
 #### Business Intelligence
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-2D6EFB?style=flat-square&logo=amazonaws&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-2D6EFB?style=flat-square&logo=quicksight&logoColor=white)
 
 <!--
 **nitish-raj/nitish-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
